@@ -19,12 +19,20 @@
 https://github.com/ladytrell/LinuxServerConfig
 
 1. Created user grader
+	a.	create ssh keypair
+	b.	add to sudo list
 2. Configured ssh to port 2200
+	a. Changed port in /etc/ssh/sshd_config
 3. Configured ufw
+    a.	Blocked all incoming traffic
+	b.  Allow port 2200, 80, and 123
 4. Installed and configured Apache2
-5. Config WSGI for python app
+	a.	Configued to run WSGI scipt
+5. Install and config WSGI for python app
+	a.	Wrote script to call catalog app
 6. Installed and configured PostgreSQL
-
+	a.  Created Users ubuntu and catalog
+	b.  Created catalog app
 
 
 ### App Location

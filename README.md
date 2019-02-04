@@ -69,6 +69,8 @@ https://docs.sqlalchemy.org/en/latest/core/connections.html
 https://www.postgresql.org/docs/9.5/database-roles.html
 https://overiq.com/sqlalchemy-101/installing-sqlalchemy-and-connecting-to-database/
 https://tutorials.ubuntu.com/tutorial/install-and-configure-apache#2
+https://serverfault.com/questions/265410/ubuntu-server-message-says-packages-can-be-updated-but-apt-get-does-not-update
+
 
 
 License
